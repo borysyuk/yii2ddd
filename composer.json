@@ -1,0 +1,24 @@
+{
+    "name": "borysyuk/yii2ddd",
+    "type": "library",
+    "description": "Add services, repositories to Yii2 project.",
+    "keywords": ["yii2", "service", "repository"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ihor Borysyuk",
+            "email": "borysyuk.ihor@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "suggest": {
+         "ext-intl": "*"
+     },
+    "autoload": {
+        "psr-4": {
+            "yii2ddd\\": ""
+        }
+    },
+}
