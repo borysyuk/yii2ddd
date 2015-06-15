@@ -27,6 +27,7 @@ use yii\web\Application;
  *
  * Class WebApplication
  * @package yii2ddd\apps
+ * @author Ihor Borysyuk
  */
 class WebApplication extends Application
 {

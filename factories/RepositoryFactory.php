@@ -14,6 +14,7 @@ namespace yii2ddd\factories;
  *
  * Class RepositoryFactory
  * @package yii2ddd\factories
+ * @author Ihor Borysyuk
  */
 class RepositoryFactory extends AbstractFactory
 {

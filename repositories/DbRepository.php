@@ -16,6 +16,7 @@ use yii\db\Query;
  *
  * Class DbRepository
  * @package yii2ddd\repositories
+ * @author Ihor Borysyuk
  */
 class DbRepository extends AbstractRepository
 {

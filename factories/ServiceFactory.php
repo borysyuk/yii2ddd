@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: user
+ * User: Ihor Borysyuk
  * Date: 12.06.15
  * Time: 15:55
  */
@@ -14,6 +14,7 @@ namespace yii2ddd\factories;
  *
  * Class ServiceFactory
  * @package yii2ddd\factories
+ * @author Ihor Borysyuk
  */
 class ServiceFactory extends AbstractFactory
 {

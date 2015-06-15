@@ -14,6 +14,7 @@ namespace yii2ddd\repositories;
  *
  * Class AbstractRepository
  * @package yii2ddd\repositories
+ * @author Ihor Borysyuk
  */
 abstract class AbstractRepository
 {
